@@ -1,6 +1,6 @@
 body {
     background-color:#000000;
-    font-family: arial,Verdana;
+    font-family: Arial,Verdana, sans-serif;
     color: #ffffff;
     margin: 20px 20px 0 20px;
 }
@@ -32,7 +32,7 @@ img {
 div {
     min-height: 125px;
     padding: 20px;
-    border: 3px solid #ffffff
+    border: 3px solid #ffffff;
 }
 
 .introduction {
